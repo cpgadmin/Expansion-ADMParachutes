@@ -37,18 +37,18 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
     <ce folder="expansion_ce">
         <file type="types" name="expansion_types.xml"/>
-		<file type="spawnabletypes" name="expansion_spawnabletypes.xml"/>
-		<file type="events" name="expansion_events.xml"/>
+	<file type="spawnabletypes" name="expansion_spawnabletypes.xml"/>
+	<file type="events" name="expansion_events.xml"/>
 	</ce>
     <ce folder="bbp">
         <file type="types" name="BBP_types.xml"/>
-	</ce>
+    </ce>
     <ce folder="snafu">
-		<file type="spawnabletypes" name="snafuspawnabletypes25percent.xml"/>
+	<file type="spawnabletypes" name="snafuspawnabletypes25percent.xml"/>
         <file type="types" name="SNAFU_types.xml"/>
-	</ce>
+    </ce>
     <ce folder="parachute">
-		<file type="spawnabletypes" name="parachute_spawnable.xml"/>
+	<file type="spawnabletypes" name="parachute_spawnable.xml"/>
         <file type="types" name="parachute_types.xml"/>
     </ce>
     <ce folder="mmg">
@@ -64,10 +64,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file type="types" name="mmg_types_multicamblack.xml"/>
         <file type="types" name="mmg_types_multicamblack.xml"/>
         <file type="types" name="mmg_types_multicamblack.xml"/>
-		<file type="types" name="mmg_types_multicamblack.xml"/>
+	<file type="types" name="mmg_types_multicamblack.xml"/>
         <file type="types" name="mmg_types_police.xml"/>
         <file type="types" name="mmg_types_tan.xml"/>
         <file type="types" name="mmg_types_ucp.xml"/>
-		<file type="spawnabletypes" name="mmg_cfgspawnabletypes.xml"/>
-	</ce>
+	<file type="spawnabletypes" name="mmg_cfgspawnabletypes.xml"/>
+    </ce>
 </economycore>
