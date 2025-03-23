@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Admiral's Parachutes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "ADM_ParachuteBag_Fabric",
+            "MaxPriceThreshold": 5265,
+            "MinPriceThreshold": 3160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ADM_ParachuteBag_RWB",
+            "MaxPriceThreshold": 5265,
+            "MinPriceThreshold": 3160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ADM_ParachuteBag_Target",
+            "MaxPriceThreshold": 5265,
+            "MinPriceThreshold": 3160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ADM_ParachuteBag_ADM",
+            "MaxPriceThreshold": 5265,
+            "MinPriceThreshold": 3160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ADM_TactiParaBag_Camo",
+            "MaxPriceThreshold": 5265,
+            "MinPriceThreshold": 3160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ADM_ParachuteBag_Skull",
+            "MaxPriceThreshold": 5265,
+            "MinPriceThreshold": 3160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

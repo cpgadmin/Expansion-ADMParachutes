@@ -1,0 +1,32 @@
+<spawnabletypes>
+    <type name="ADM_TactiParaBag_Camo">
+        <attachments chance="1.00">
+            <item name="CoyoteBag_Brown" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="ADM_TactiParaBag_Camo_Speed">
+        <attachments chance="1.00">
+            <item name="CoyoteBag_Green" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="ADM_JetPack_Green">
+        <attachments chance="1.00">
+            <item name="Grenade_ChemGas" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M67Grenade" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FlashGrenade" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RGD5Grenade" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="LandMineTrap" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="LandMineTrap" chance="0.50" />
+        </attachments>
+    </type>
+</spawnabletypes> 
